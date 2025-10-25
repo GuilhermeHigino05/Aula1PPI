@@ -1,0 +1,30 @@
+{
+  "name": "aula1ppi",
+  "version": "1.0.0",
+  "description": "Primeiro programa para a internet usando node + express",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilhermeHigino05/Aula1PPI.git"
+  },
+  "keywords": [
+    "http",
+    "express",
+    "node",
+    "PPI"
+  ],
+  "author": "Guilherme Higino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuilhermeHigino05/Aula1PPI/issues"
+  },
+  "homepage": "https://github.com/GuilhermeHigino05/Aula1PPI#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
